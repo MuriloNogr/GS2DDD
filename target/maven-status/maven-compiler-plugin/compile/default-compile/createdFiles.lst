@@ -1,0 +1,5 @@
+com\pillpal\api\controller\MedicamentosController.class
+com\pillpal\App.class
+com\pillpal\api\repository\PillpalRepository.class
+com\pillpal\api\model\Medicamentos.class
+com\pillpal\api\service\MedicamentosService.class
